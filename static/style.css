@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background: #ffe4ec;
+    padding: 20px;
+}
+table, th, td {
+    border: 1px solid #aaa;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+form, table {
+    margin-bottom: 20px;
+}
+canvas {
+    max-width: 600px;
+    margin-top: 20px;
+}
